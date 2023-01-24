@@ -10,7 +10,7 @@ const updateCode = async () => {
   try {
     eval(fileData)
   } catch (err) {
-    console.error(err)
+    console.error(err.message)
   }
 }
 
