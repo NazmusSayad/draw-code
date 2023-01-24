@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const fs = require('fs')
 const readFile = require('./readFile.js')
 const filePath = process.argv[2]
