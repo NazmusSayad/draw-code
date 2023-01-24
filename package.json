@@ -1,0 +1,8 @@
+{
+  "name": "node-img",
+  "bin": "./index.js",
+  "version": "0.0.0",
+  "dependencies": {
+    "tesseract.js": "^4.0.2"
+  }
+}
